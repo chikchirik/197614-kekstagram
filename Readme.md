@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Татьяна Зима](https://up.htmlacademy.ru/javascript/9/user/197614).
-* Наставник: `Неизвестно`.
+* Наставник: `Без наставника`.
 
 ---
 
